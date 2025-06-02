@@ -1,2 +1,1 @@
-# mjs-project-terraform-backend
-this is github repo resouce for backend
+# This prod repository is for backend developers.
