@@ -1,2 +1,1 @@
-# mjs-project-terraform-backend
-this is github repo resouce for mysql
+# This prod repository is for mysql developers.
